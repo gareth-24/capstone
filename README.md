@@ -14,6 +14,7 @@
 * 9:45: Research GSAP version 3.0 for website animations with a React/JS project -- [GreenSock Docs](https://greensock.com/docs/)
 * 10:15: Research React-Spring library at [react-spring getting started](https://www.react-spring.dev/docs/getting-started)
 * 10:50: Research parallax effect, view website demos
+* 11:25: Research Next.js framework-- routing, rendering (client vs server sided), pages, API & data fetching
 
 ## Helpful Resources and Links:
 
@@ -24,10 +25,12 @@
 * [Nivo Docs](https://nivo.rocks/) - Library for Data Visualization components
 * [Next.js Docs](https://nextjs.org/docs) - React Framework for building web apps
   - [Deploying with GitHub Pages](https://github.com/vercel/next.js/tree/canary/examples/github-pages)
+  - [Next.js + Tailwind CSS example](https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss)
 * [Redux Docs](https://redux.js.org/introduction/getting-started)
 * [React](https://react.dev/reference/react)
 * [Firebase](https://firebase.google.com/)
   - [Integrate with Next.js](https://firebase.google.com/docs/hosting/frameworks/nextjs)
+  -[Firestore (cloud based BaaS)](https://firebase.google.com/products/firestore)
 * [Spoonacular API](https://spoonacular.com/food-api)
 
 
