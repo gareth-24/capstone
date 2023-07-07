@@ -16,12 +16,14 @@
 * 10:50: Research parallax effect, view website demos
 * 11:25: Research Next.js framework-- routing, rendering (client vs server sided), pages, API & data fetching
 * 1:45: Research NoSQL with Firebase/Firestore
+* 2:45: Test Next.js / React project
 
 ## Helpful Resources and Links:
 
 * [GreenSock Docs](https://greensock.com/docs/) - Animation Toolset for JS
   - [ScrollTrigger plugin](https://greensock.com/docs/v3/Plugins/ScrollTrigger)
   - [ScrollSmoother plugin](https://greensock.com/docs/v3/Plugins/ScrollSmoother)
+  - [Example with codepen.io](https://codepen.io/isladjan/pen/abdyPBw)
 * [React-Spring Docs](https://www.react-spring.dev/docs) - Library for interactive/animated UI components
 * [Nivo Docs](https://nivo.rocks/) - Library for Data Visualization components
 * [Next.js Docs](https://nextjs.org/docs) - React Framework for building web apps
