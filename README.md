@@ -5,11 +5,22 @@
 #### By Gareth Grindeland
 
 ## Research & Planning Log
+
 #### Friday, July 7th
 * 8:10: Read lessons on indpendent capstone proposal and creating a README with a research & planning log
 * 8:35: Brainstorm ideas and potential features, preliminary research on tools, frameworks, and libraries
 * 9:00: Set up initial github repo for the capstone
 * 9:20: Watch video about GSAP at [greensock.com/get-started](https://greensock.com/get-started/)
+* 9:45: Research GSAP version 3.0 for website animations with a React/JS project -- [GreenSock Docs](https://greensock.com/docs/)
+
+## Helpful Resources and Links:
+
+* [GreenSock Docs](https://greensock.com/docs/) - Animation Toolset for JS
+* [React-Spring Docs](https://www.react-spring.dev/docs) - Library for interactive/animated UI components
+* [Nivo Docs](https://nivo.rocks/) - Library for Data Visualization components
+* [Next.js Docs](https://nextjs.org/docs) - React Framework for building web apps
+* [Redux Docs](https://redux.js.org/introduction/getting-started)
+
 
 ## Technologies Used
 
