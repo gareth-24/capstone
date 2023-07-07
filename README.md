@@ -15,6 +15,7 @@
 * 10:15: Research React-Spring library at [react-spring getting started](https://www.react-spring.dev/docs/getting-started)
 * 10:50: Research parallax effect, view website demos
 * 11:25: Research Next.js framework-- routing, rendering (client vs server sided), pages, API & data fetching
+* 1:45: Research NoSQL with Firebase/Firestore
 
 ## Helpful Resources and Links:
 
