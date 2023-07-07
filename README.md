@@ -16,7 +16,8 @@
 * 10:50: Research parallax effect, view website demos
 * 11:25: Research Next.js framework-- routing, rendering (client vs server sided), pages, API & data fetching
 * 1:45: Research NoSQL with Firebase/Firestore
-* 2:45: Test Next.js / React project
+* 2:45: Test Next.js / React [project](https://github.com/gareth-24/nextjs-blog)
+  - 3:30: pre-rendering and data fetching
 
 ## Helpful Resources and Links:
 
@@ -29,6 +30,7 @@
 * [Next.js Docs](https://nextjs.org/docs) - React Framework for building web apps
   - [Deploying with GitHub Pages](https://github.com/vercel/next.js/tree/canary/examples/github-pages)
   - [Next.js + Tailwind CSS example](https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss)
+  - [Create a Next.js App](https://nextjs.org/learn/basics/create-nextjs-app)
 * [Redux Docs](https://redux.js.org/introduction/getting-started)
 * [React](https://react.dev/reference/react)
 * [Firebase](https://firebase.google.com/)
