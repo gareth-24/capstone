@@ -12,10 +12,13 @@
 * 9:00: Set up initial github repo for the capstone
 * 9:20: Watch video about GSAP at [greensock.com/get-started](https://greensock.com/get-started/)
 * 9:45: Research GSAP version 3.0 for website animations with a React/JS project -- [GreenSock Docs](https://greensock.com/docs/)
+* 10:15: Research React-Spring library at [react-spring getting started](https://www.react-spring.dev/docs/getting-started)
 
 ## Helpful Resources and Links:
 
 * [GreenSock Docs](https://greensock.com/docs/) - Animation Toolset for JS
+  - [ScrollTrigger plugin](https://greensock.com/docs/v3/Plugins/ScrollTrigger)
+  - [ScrollSmoother plugin](https://greensock.com/docs/v3/Plugins/ScrollSmoother)
 * [React-Spring Docs](https://www.react-spring.dev/docs) - Library for interactive/animated UI components
 * [Nivo Docs](https://nivo.rocks/) - Library for Data Visualization components
 * [Next.js Docs](https://nextjs.org/docs) - React Framework for building web apps
