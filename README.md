@@ -13,6 +13,7 @@
 * 9:20: Watch video about GSAP at [greensock.com/get-started](https://greensock.com/get-started/)
 * 9:45: Research GSAP version 3.0 for website animations with a React/JS project -- [GreenSock Docs](https://greensock.com/docs/)
 * 10:15: Research React-Spring library at [react-spring getting started](https://www.react-spring.dev/docs/getting-started)
+* 10:50: Research parallax effect, view website demos
 
 ## Helpful Resources and Links:
 
@@ -22,7 +23,12 @@
 * [React-Spring Docs](https://www.react-spring.dev/docs) - Library for interactive/animated UI components
 * [Nivo Docs](https://nivo.rocks/) - Library for Data Visualization components
 * [Next.js Docs](https://nextjs.org/docs) - React Framework for building web apps
+  - [Deploying with GitHub Pages](https://github.com/vercel/next.js/tree/canary/examples/github-pages)
 * [Redux Docs](https://redux.js.org/introduction/getting-started)
+* [React](https://react.dev/reference/react)
+* [Firebase](https://firebase.google.com/)
+  - [Integrate with Next.js](https://firebase.google.com/docs/hosting/frameworks/nextjs)
+* [Spoonacular API](https://spoonacular.com/food-api)
 
 
 ## Technologies Used
