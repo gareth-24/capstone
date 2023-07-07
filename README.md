@@ -19,6 +19,7 @@
 * 2:45: Test Next.js / React [project](https://github.com/gareth-24/nextjs-blog)
   - 3:30: pre-rendering and data fetching
   - 4:15: adding dynamic routes
+* 4:45: Create project MVP proposal
 
 ## Helpful Resources and Links:
 
