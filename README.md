@@ -1,6 +1,6 @@
 # Capstone
 
-#### (Brief Summary)
+#### Preliminary research, plan, and proposal for independent capstone project
 
 #### By Gareth Grindeland
 
@@ -18,6 +18,7 @@
 * 1:45: Research NoSQL with Firebase/Firestore
 * 2:45: Test Next.js / React [project](https://github.com/gareth-24/nextjs-blog)
   - 3:30: pre-rendering and data fetching
+  - 4:15: adding dynamic routes
 
 ## Helpful Resources and Links:
 
@@ -37,18 +38,19 @@
   - [Integrate with Next.js](https://firebase.google.com/docs/hosting/frameworks/nextjs)
   -[Firestore (cloud based BaaS)](https://firebase.google.com/products/firestore)
 * [Spoonacular API](https://spoonacular.com/food-api)
+* [Stripe Checkout](https://stripe.com/docs/payments/checkout)
 
 
 ## Technologies Used
 
-* Git
+<!-- * Git
 * JavaScript
 * React version 18.2.0
-* 
+*  -->
 
 ## Description
 
-_(Full Description)_
+<!-- _(Full Description)_ -->
 
 ## Component Diagram
 
