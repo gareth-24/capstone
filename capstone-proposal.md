@@ -10,10 +10,8 @@ _Interactive Fitness E-commerce website to display clothing products, gear, work
 
 ### List the absolute minimum features the project requires to meet this purpose or goal:
 * Fitness themed E-commerce website
-* Interactive UI built with React
-* Ability to view products (clothing, workout plans, supplements, etc.) and additional details like price, amount, description
-* Basic CRUD functionality
-* Database integration
+* Interactive UI built with React & Next.js
+* Ability to view products (clothing, workout plans, supplements, etc.) and navigate between pages to view additional details like price, amount, description.
 * Basic webpage styling elements at a minimum. Ideally it is fully styled and responsive.
 
 ### What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
@@ -25,7 +23,10 @@ _Interactive Fitness E-commerce website to display clothing products, gear, work
 * CSS styling library (Bootstrap, MUI, or Tailwind)
 
 ### If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
+* Database integration
 * Add a cart and checkout widget (potentially integrated with Stripe Checkout or similar API/Library)
+* Add ability to sort by category and/or search for a product
+* Basic CRUD functionality (a user can add additional items for sale)
 * Add smooth animations and scrolling effects using GSAP version 3.0 or other animation libraries. These could be used primarily on a "Featured" section of the website.
 * Add a fitness blog section 
 * Change which components on the page are loaded server-side, client-side, and hybrid
