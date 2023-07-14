@@ -34,6 +34,7 @@
 * 3:40: Test out deployment of the next.js app:
   - [link to live site](https://nextjs-blog-eta-snowy-14.vercel.app/)
   - [Github repo](https://github.com/gareth-24/nextjs-blog)
+* 4:15: Test out tailwind css styling elements
 
 ## Helpful Resources and Links:
 
