@@ -30,6 +30,7 @@
   - 1:55: Refactor code, add css, add title page and links to pages
   - 2:10: Research differences and benefits of rendering data or website pages server-side vs. using static generation
 * 2:35: Install Vercel for Github and read how to deploy a Next.js App
+* 3:00: Register/Configure a Vercel account and the practice project
 
 ## Helpful Resources and Links:
 
@@ -42,6 +43,7 @@
 * [Next.js Docs](https://nextjs.org/docs) - React Framework for building web apps
   - [Deploying with GitHub Pages](https://github.com/vercel/next.js/tree/canary/examples/github-pages)
   - [Next.js + Tailwind CSS example](https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss)
+  - [Next.js next-learn Github folder](https://github.com/vercel/next-learn/tree/master/basics)
   - [Create a Next.js App](https://nextjs.org/learn/basics/create-nextjs-app)
 * [Redux Docs](https://redux.js.org/introduction/getting-started)
 * [React](https://react.dev/reference/react)
