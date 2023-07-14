@@ -25,6 +25,8 @@
 * 8:10: Plan / map out daily tasks
 * 8:35: Research Tailwind css [core concepts](https://tailwindcss.com/docs/utility-first)
 * 10:00: Continue working on next.js practice project and tutorial
+  - 11:20: create posts library and implement getStaticProps, render markdown files
+  - 1:15: create API enpoints as serverless function
 
 ## Helpful Resources and Links:
 
