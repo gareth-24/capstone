@@ -29,6 +29,7 @@
   - 1:15: create API enpoints as serverless function
   - 1:55: Refactor code, add css, add title page and links to pages
   - 2:10: Research differences and benefits of rendering data or website pages server-side vs. using static generation
+* 2:35: Install Vercel for Github and read how to deploy a Next.js App
 
 ## Helpful Resources and Links:
 
