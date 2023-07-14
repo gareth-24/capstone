@@ -18,12 +18,10 @@ _Interactive Fitness E-commerce website to display clothing products, gear, work
 * HTML, CSS, and JavaScript
 * React & Redux
 * Next.js Framework
-* NoSQL with Firebase / Firestore
-* web hosting service (Firebase, AWS, or gh-pages)
 * CSS styling library (Bootstrap, MUI, or Tailwind)
 
 ### If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
-* Database integration
+* Database integration & hosted to a live site
 * Add a cart and checkout widget (potentially integrated with Stripe Checkout or similar API/Library)
 * Add ability to sort by category and/or search for a product
 * Basic CRUD functionality (a user can add additional items for sale)
@@ -34,11 +32,13 @@ _Interactive Fitness E-commerce website to display clothing products, gear, work
 
 
 ### What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
+* NoSQL with Firebase / Firestore
+* web hosting service (Firebase, AWS, Vercel, or gh-pages)
 * GSAP version 3.0 + pluggins (i.e. ScrollTrigger and ScrollSmoother)
 * React-Spring library, Nivo data vizualization library
 * Tailwind CSS
 * Spoonacular API (or similar API like Tasty)
-* Stripe Checkout
+* Stripe Checkout / Shopify
 
 
 ### Is there anything else you'd like your instructor to know?
