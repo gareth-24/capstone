@@ -27,6 +27,7 @@
 * 10:00: Continue working on next.js practice project and tutorial
   - 11:20: create posts library and implement getStaticProps, render markdown files
   - 1:15: create API enpoints as serverless function
+  - 1:55: Refactor code, add css, add title page and links to pages
 
 ## Helpful Resources and Links:
 
