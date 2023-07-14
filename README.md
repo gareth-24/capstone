@@ -24,6 +24,7 @@
 #### Friday, July 14th
 * 8:10: Plan / map out daily tasks
 * 8:35: Research Tailwind css [core concepts](https://tailwindcss.com/docs/utility-first)
+* 10:00: Continue working on next.js practice project and tutorial
 
 ## Helpful Resources and Links:
 
