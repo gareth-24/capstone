@@ -21,6 +21,10 @@
   - 4:15: adding dynamic routes
 * 4:45: Create project MVP proposal
 
+#### Friday, July 14th
+* 8:10: plan / map out daily tasks
+* 
+
 ## Helpful Resources and Links:
 
 * [GreenSock Docs](https://greensock.com/docs/) - Animation Toolset for JS
