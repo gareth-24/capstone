@@ -28,6 +28,7 @@
   - 11:20: create posts library and implement getStaticProps, render markdown files
   - 1:15: create API enpoints as serverless function
   - 1:55: Refactor code, add css, add title page and links to pages
+  - 2:10: Research differences and benefits of rendering data or website pages server-side vs. using static generation
 
 ## Helpful Resources and Links:
 
