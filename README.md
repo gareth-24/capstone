@@ -35,6 +35,9 @@
   - [link to live site](https://nextjs-blog-eta-snowy-14.vercel.app/)
   - [Github repo](https://github.com/gareth-24/nextjs-blog)
 * 4:15: Test out tailwind css styling elements
+* 4:35: Narrow MVP to 3 goals per feedback on initial proposal
+  - (Note: elements beyond the 3 goals have been moved to the stretch goals section)
+* 4:45: Begin mapping out design/layout for the website, diagram of components
 
 ## Helpful Resources and Links:
 
