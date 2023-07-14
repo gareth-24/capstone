@@ -31,6 +31,9 @@
   - 2:10: Research differences and benefits of rendering data or website pages server-side vs. using static generation
 * 2:35: Install Vercel for Github and read how to deploy a Next.js App
 * 3:00: Register/Configure a Vercel account and the practice project
+* 3:40: Test out deployment of the next.js app:
+  - [link to live site](https://nextjs-blog-eta-snowy-14.vercel.app/)
+  - [Github repo](https://github.com/gareth-24/nextjs-blog)
 
 ## Helpful Resources and Links:
 
