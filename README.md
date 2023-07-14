@@ -22,8 +22,8 @@
 * 4:45: Create project MVP proposal
 
 #### Friday, July 14th
-* 8:10: plan / map out daily tasks
-* 
+* 8:10: Plan / map out daily tasks
+* 8:35: Research Tailwind css [core concepts](https://tailwindcss.com/docs/utility-first)
 
 ## Helpful Resources and Links:
 
