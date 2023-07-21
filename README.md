@@ -63,6 +63,7 @@
   -[Firestore (cloud based BaaS)](https://firebase.google.com/products/firestore)
 * [Spoonacular API](https://spoonacular.com/food-api)
 * [Stripe Checkout](https://stripe.com/docs/payments/checkout)
+* [TypeScript Docs](https://www.typescriptlang.org/docs/)
 
 
 ## Technologies Used
