@@ -48,7 +48,9 @@
   - 2:30: Register account & project for Clerk Authentication
   - 2:50: Test Clerk Auth with a test next.js app
 * 4:00: Research Shadcn UI dashboard components
-* 4:30 Research Cloudinary image upload API
+* 4:30: Research Cloudinary image upload API
+  - Register account and configure environment & upload presets
+  - 4:50: Test out image banner upload 
 
 ## Helpful Resources and Links:
 
