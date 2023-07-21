@@ -7,8 +7,8 @@ import Navbar from '@/components/Navbar'
 const font = Urbanist({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Store',
-  description: 'Ecommerce web store',
+  title: 'Capstone Store',
+  description: 'Ecommerce web store with next.js',
 }
 
 export default function RootLayout({
