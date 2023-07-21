@@ -27,7 +27,9 @@ const Button = forwardRef<HTMLButtonElement, ButtonProps>(({
       font-semibold
       hover:opacity-75
       transition
-      `
+      `,
+      disabled && 'opacity-75 cursor-not-allowed',
+      className
     )}
     ref={ref}
     >
