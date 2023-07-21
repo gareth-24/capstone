@@ -46,6 +46,7 @@
 * 1:35: Research Prisma.io docs
 * 2:00: Research Clerk API authentication / user management
   - 2:30: Register account & project for Clerk Authentication
+  - 2:50: Test Clerk Auth with a test next.js app
 
 ## Helpful Resources and Links:
 
@@ -67,6 +68,8 @@
   -[Firestore (cloud based BaaS)](https://firebase.google.com/products/firestore)
 * [Prisma](https://www.prisma.io/docs)
 * [Clerk Authentication](https://clerk.com/)
+* [PlanetScale (serverless MySQL)](sk_test_Sthrk6DpKEjTT57ZPIbHL8wujReRMenL0hsjciZ4Nt)
+* [Shadcn/ui](https://ui.shadcn.com/)
 * [Spoonacular API](https://spoonacular.com/food-api)
 * [Stripe Checkout](https://stripe.com/docs/payments/checkout)
 * [TypeScript Docs](https://www.typescriptlang.org/docs/)
