@@ -39,6 +39,9 @@
   - (Note: elements beyond the 3 goals have been moved to the stretch goals section)
 * 4:45: Begin mapping out design/layout for the website, diagram of components
 
+#### Friday, July 21st
+* 8:15: Plan out daily tasks and goals
+
 ## Helpful Resources and Links:
 
 * [GreenSock Docs](https://greensock.com/docs/) - Animation Toolset for JS
