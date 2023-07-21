@@ -42,6 +42,7 @@
 #### Friday, July 21st
 * 8:15: Plan out daily tasks and goals
 * 9:15: After bootstrapping initial project with create-next-app, finish the rough draft of the website layout / component diagram / routes needed
+* 1:05: Research TypeScript types/interfaces
 
 ## Helpful Resources and Links:
 
@@ -64,6 +65,7 @@
 * [Spoonacular API](https://spoonacular.com/food-api)
 * [Stripe Checkout](https://stripe.com/docs/payments/checkout)
 * [TypeScript Docs](https://www.typescriptlang.org/docs/)
+* [Lucide-React Docs (icon library)](https://lucide.dev/guide/)
 
 
 ## Technologies Used
