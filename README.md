@@ -41,6 +41,7 @@
 
 #### Friday, July 21st
 * 8:15: Plan out daily tasks and goals
+* 9:15: After bootstrapping initial project with create-next-app, finish the rough draft of the website layout / component diagram / routes needed
 
 ## Helpful Resources and Links:
 
