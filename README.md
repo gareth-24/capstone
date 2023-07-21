@@ -47,6 +47,7 @@
 * 2:00: Research Clerk API authentication / user management
   - 2:30: Register account & project for Clerk Authentication
   - 2:50: Test Clerk Auth with a test next.js app
+* 4:00: Research Shadcn UI dashboard components
 
 ## Helpful Resources and Links:
 
@@ -70,6 +71,7 @@
 * [Clerk Authentication](https://clerk.com/)
 * [PlanetScale (serverless MySQL)](sk_test_Sthrk6DpKEjTT57ZPIbHL8wujReRMenL0hsjciZ4Nt)
 * [Shadcn/ui](https://ui.shadcn.com/)
+* [Cloudinary Image API](https://cloudinary.com/documentation/cloudinary_references)
 * [Spoonacular API](https://spoonacular.com/food-api)
 * [Stripe Checkout](https://stripe.com/docs/payments/checkout)
 * [TypeScript Docs](https://www.typescriptlang.org/docs/)
