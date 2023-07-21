@@ -45,6 +45,7 @@
 * 1:05: Research TypeScript types/interfaces
 * 1:35: Research Prisma.io docs
 * 2:00: Research Clerk API authentication / user management
+  - 2:30: Register account & project for Clerk Authentication
 
 ## Helpful Resources and Links:
 
