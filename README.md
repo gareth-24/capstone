@@ -44,6 +44,7 @@
 * 9:15: After bootstrapping initial project with create-next-app, finish the rough draft of the website layout / component diagram / routes needed
 * 1:05: Research TypeScript types/interfaces
 * 1:35: Research Prisma.io docs
+* 2:00: Research Clerk API authentication / user management
 
 ## Helpful Resources and Links:
 
@@ -64,6 +65,7 @@
   - [Integrate with Next.js](https://firebase.google.com/docs/hosting/frameworks/nextjs)
   -[Firestore (cloud based BaaS)](https://firebase.google.com/products/firestore)
 * [Prisma](https://www.prisma.io/docs)
+* [Clerk Authentication](https://clerk.com/)
 * [Spoonacular API](https://spoonacular.com/food-api)
 * [Stripe Checkout](https://stripe.com/docs/payments/checkout)
 * [TypeScript Docs](https://www.typescriptlang.org/docs/)
