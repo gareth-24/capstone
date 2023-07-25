@@ -85,6 +85,7 @@
 * [TypeScript Docs](https://www.typescriptlang.org/docs/)
 * [Lucide-React Docs (icon library)](https://lucide.dev/guide/)
 * [query-string npm package install](https://www.npmjs.com/package/query-string)
+* [Headless UI](https://headlessui.com/)
 
 
 ## Technologies Used
