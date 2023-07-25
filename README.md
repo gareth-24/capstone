@@ -83,6 +83,7 @@
 * [Stripe Checkout](https://stripe.com/docs/payments/checkout)
 * [TypeScript Docs](https://www.typescriptlang.org/docs/)
 * [Lucide-React Docs (icon library)](https://lucide.dev/guide/)
+* [query-string npm package install](https://www.npmjs.com/package/query-string)
 
 
 ## Technologies Used
