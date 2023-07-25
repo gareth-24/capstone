@@ -55,6 +55,7 @@
 #### Tuesday, July 25th
 * 8:15: Dev team meetup & planning out daily tasks and goals
 * 8:45: Signup for presentation timeslot
+* 1:25: Find stock images for product listings
 
 ## Helpful Resources and Links:
 
