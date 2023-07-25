@@ -1,7 +1,11 @@
+import Billboard from "@/components/Billboard";
+import Container from "@/components/ui/Container";
+
 import getCategory from "@/actions/get-category";
 import getColors from "@/actions/get-colors";
 import getProducts from "@/actions/get-products";
 import getSizes from "@/actions/get-sizes";
+
 
 export const revalidate = 0;  // clear cached data
 
@@ -22,7 +26,7 @@ const CategoryPage: React.FC<CategoryPageProps> = async ({
   const products = await getProducts({
     categoryId: params.categoryId,
     colorId: searchParams.colorId,
-    sizeId: searchParams.sizeId
+    sizeId: searchParams.sizeId,
   });
 
   const sizes = await getSizes();
@@ -31,8 +35,24 @@ const CategoryPage: React.FC<CategoryPageProps> = async ({
 
 
   return (
-    <div>
-      Category
+    <div className="bg-white">
+      <Container>
+        <Billboard
+          data={category.billboard}
+        />
+        <div className="px-4 sm:px-6 lg:px-8 pb-24">
+          <div className="lg:grid lg:grid-cols-5 lg:gap-x-8">
+            {/* add mobile filters here */}
+            <div className="hidden lg:block">
+              <Filter
+                valueKey="Sizes"
+                data={sizes}
+              />
+            </div>
+          </div>
+
+        </div>
+      </Container>
     </div>
   );
 }
