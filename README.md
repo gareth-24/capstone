@@ -52,6 +52,10 @@
   - Register account and configure environment & upload presets
   - 4:50: Test out image banner upload 
 
+#### Tuesday, July 25th
+* 8:15: Dev team meetup & planning out daily tasks and goals
+* 
+
 ## Helpful Resources and Links:
 
 * [GreenSock Docs](https://greensock.com/docs/) - Animation Toolset for JS
