@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Container from "./ui/Container";
+import Container from "@/components/ui/Container";
 import MainNav from "@/components/Main-nav";
 import NavbarActions from "./Navbar-actions";
 import getCategories from "@/actions/get-categories";
@@ -14,7 +14,7 @@ const Navbar = async () => {
           <Link href="/" className="ml-4 flex lg:ml-0 gap-x-2">
             <p className="font-bold text-xl">STORE</p>
           </Link>
-          <MainNav data={[categories]} /> 
+          <MainNav data={categories} /> 
           {/* WIP: */}
             {/* can import nav tab names from database */}
           <NavbarActions />
