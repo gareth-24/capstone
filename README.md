@@ -60,6 +60,7 @@
 #### Wednesday, July 26th
 * 8:20: Plan out daily tasks and goals, meet with dev team
 * 8:40: Add more products to the store db
+* 9:10: Test out dashboard and prisma connection
 
 ## Helpful Resources and Links:
 
