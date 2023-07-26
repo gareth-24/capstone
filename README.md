@@ -61,6 +61,7 @@
 * 8:20: Plan out daily tasks and goals, meet with dev team
 * 8:40: Add more products to the store db
 * 9:10: Test out dashboard and prisma connection
+* 1:00: Test out all current UI routes
 
 ## Helpful Resources and Links:
 
