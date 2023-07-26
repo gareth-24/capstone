@@ -31,4 +31,4 @@ const PreviewModel = () => {
   );
 }
 
-export default usePreviewModel;
+export default PreviewModel;
