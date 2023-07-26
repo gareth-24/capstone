@@ -3,12 +3,13 @@ import type { Metadata } from 'next'
 import { Urbanist } from 'next/font/google'
 import Footer from '@/components/Footer'
 import Navbar from '@/components/Navbar'
+import ModelProvider from '@/providers/model-provider'
 
 const font = Urbanist({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Capstone Store',
-  description: 'Ecommerce web store with next.js',
+  title: 'Capstone E-commerce Store',
+  description: 'E-commerce web store with next.js',
 }
 
 export default function RootLayout({
@@ -19,6 +20,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={font.className}>
+        <ModelProvider />
         <Navbar />
         {children}
         <Footer />
