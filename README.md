@@ -65,6 +65,7 @@
 * 1:30: Add new demo branch to the github repo
 * 4:15: Research Zustand state management
   - End of day 07/26 checkpoint: have working UI with product gallery popup pages
+  - Note tasks and goals that take priority for tomorrow
 
 ## Helpful Resources and Links:
 
