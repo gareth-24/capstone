@@ -63,6 +63,7 @@
 * 9:10: Test out dashboard and prisma connection
 * 1:00: Test out all current UI routes
 * 1:30: Add new demo branch to the github repo
+* 4:15: Research Zustand state management
 
 ## Helpful Resources and Links:
 
