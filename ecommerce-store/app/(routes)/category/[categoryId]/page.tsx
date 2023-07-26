@@ -7,6 +7,7 @@ import getProducts from "@/actions/get-products";
 import getSizes from "@/actions/get-sizes";
 
 import Filter from "./components/Filter";
+import MobileFilters from "./components/Mobile-filters";
 import NoResults from "@/components/ui/No-results";
 import ProductCard from "@/components/ui/Product-card";
 
