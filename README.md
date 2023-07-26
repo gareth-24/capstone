@@ -57,6 +57,9 @@
 * 8:45: Signup for presentation timeslot
 * 1:25: Find stock images for product listings
 
+#### Wednesday, July 26th
+* 8:20: Plan out daily tasks and goals, meet with dev team
+
 ## Helpful Resources and Links:
 
 * [GreenSock Docs](https://greensock.com/docs/) - Animation Toolset for JS
