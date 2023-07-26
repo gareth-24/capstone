@@ -62,7 +62,6 @@ const Filter: React.FC<FilterProps> = ({
               )}
               onClick={() => onClick(filter.id)}
             >
-      {/* WORK IN PROGRESS 07/25 */}
               {filter.name}
             </Button>
           </div>
