@@ -62,6 +62,7 @@
 * 8:40: Add more products to the store db
 * 9:10: Test out dashboard and prisma connection
 * 1:00: Test out all current UI routes
+* 1:30: Add new demo branch to the github repo
 
 ## Helpful Resources and Links:
 
