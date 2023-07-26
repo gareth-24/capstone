@@ -6,6 +6,7 @@ import getColors from "@/actions/get-colors";
 import getProducts from "@/actions/get-products";
 import getSizes from "@/actions/get-sizes";
 
+import Filter from "./components/Filter";
 
 export const revalidate = 0;  // clear cached data
 
