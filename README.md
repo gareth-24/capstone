@@ -64,6 +64,7 @@
 * 1:00: Test out all current UI routes
 * 1:30: Add new demo branch to the github repo
 * 4:15: Research Zustand state management
+  - End of day 07/26 checkpoint: have working UI with product gallery popup pages
 
 ## Helpful Resources and Links:
 
