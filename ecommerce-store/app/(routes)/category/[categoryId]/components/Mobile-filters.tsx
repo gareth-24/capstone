@@ -7,6 +7,7 @@ import { Dialog } from "@headlessui/react";
 import { Color, Size } from "@/types";
 import Button from "@/components/ui/Button";
 import IconButton from "@/components/ui/Icon-button";
+import Filter from "./Filter";
 
 interface MobileFiltersProps {
   sizes: Size[];
@@ -40,6 +41,20 @@ const MobileFilters: React.FC<MobileFiltersProps>= ({
             {/* Close Button */}
             <div className="flex items-center justify-end px-4">
               <IconButton icon={<X size={15} />} onClick={onClose} />
+            </div>
+
+            {/* Render the filters */}
+            <div className="p-4">
+              <Filter
+                  valueKey="sizeId"
+                  name="Sizes"
+                  data={sizes}
+                />
+                <Filter
+                  valueKey="colorId"
+                  name="Colors"
+                  data={colors}
+                />
             </div>
           </Dialog.Panel>
 
