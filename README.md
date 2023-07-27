@@ -73,6 +73,7 @@
 * 9:40: Bugfixing the deployment of the admin dashboard
   - Fixed: needed to import the env variables under project settings in the vercel dashboard.
 * 10:10: Test out accessing the api routes and navigating on the hosted admin page
+* 10:40: Update env variables in this directory for the new api url routes with the hosted admin dashboard.
 
 ## Helpful Resources and Links:
 
