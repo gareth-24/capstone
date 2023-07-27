@@ -75,6 +75,7 @@
 * 10:10: Test out accessing the api routes and navigating on the hosted admin page
 * 10:40: Update env variables in this directory for the new api url routes with the hosted admin dashboard.
 * 12:05: Store UI successfully hosted, WIP: testing out the routes on the live site
+* 1:30: Add custom domain url and begin prep for demo
 
 ## Helpful Resources and Links:
 
