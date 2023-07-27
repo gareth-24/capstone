@@ -71,6 +71,8 @@
 * 8:40: Test out demo site with products added 
 * 8:40-9:20: Initialize git repository for the admin dashboard/backend
 * 9:40: Bugfixing the deployment of the admin dashboard
+  - Fixed: needed to import the env variables under project settings in the vercel dashboard.
+* 10:10: Test out accessing the api routes and navigating on the hosted admin page
 
 ## Helpful Resources and Links:
 
