@@ -67,6 +67,9 @@
   - End of day 07/26 checkpoint: have working UI with product gallery popup pages
   - Note tasks and goals that take priority for tomorrow
 
+#### Thursday, July 27th
+* 8:40: Test out demo site with products added 
+
 ## Helpful Resources and Links:
 
 * [GreenSock Docs](https://greensock.com/docs/) - Animation Toolset for JS
