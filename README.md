@@ -70,6 +70,7 @@
 #### Thursday, July 27th
 * 8:40: Test out demo site with products added 
 * 8:40-9:20: Initialize git repository for the admin dashboard/backend
+* 9:40: Bugfixing the deployment of the admin dashboard
 
 ## Helpful Resources and Links:
 
