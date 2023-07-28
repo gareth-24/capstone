@@ -26,10 +26,12 @@ const Summary = () => {
   }, [searchParams, removeAll]);
 
   const totalPrice = items.reduce((total, item) => {
+    // return total price of the cart items
     return total + Number(item.price)
   }, 0);
 
   const onCheckout = async () => {
+    // onClicking checkout, connect to dashboard API route for making a purchase
     const response = await axios.post(`${process.env.NEXT_PUBLIC_API_URL}/checkout`, {
       productIds: items.map((item) => item.id)
     });
@@ -51,7 +53,7 @@ const Summary = () => {
           <Currency value={totalPrice} />
         </div>
       </div>
-      
+
       <Button onClick={onCheckout} disabled={items.length === 0} className="w-full mt-6">
         Checkout
       </Button>
