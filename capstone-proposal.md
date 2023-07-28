@@ -119,6 +119,7 @@ _Interactive Fitness E-commerce website to display clothing products, gear, work
 
 #### Friday, July 28th
 * 9:30-10:15: Research shopify api for handling payments/cart
+* 1:15: Research stripe api for payments
 
 ## Helpful Resources and Links:
 
