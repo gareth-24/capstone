@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 import Container from "@/components/ui/Container";
 import useCart from "@/hooks/use-cart";
 import CartItem from "./components/Cart-item";
+import Summary from "./components/Cart-summary";
 
 const CartPage = () => {
   const [isMounted, setIsMounted] = useState(false);
@@ -35,6 +36,7 @@ const CartPage = () => {
                 ))}
               </ul>
             </div>
+            <Summary />
           </div>
         </div>
       </Container>
