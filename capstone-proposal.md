@@ -122,6 +122,7 @@ _Interactive Fitness E-commerce website to display clothing products, gear, work
 * 1:15: Research stripe api for payments
 * 1:45: Configure stripe project and test card for payments
 * 2:25: WIP: Bugfixing stripe checkout and payments with hosted site
+* 3:20: WIP: Checkout button successfully redirects to stripe payment, but there is a "Webhook Error: No signatures found matching the expected signature for payload."
 
 ## Helpful Resources and Links:
 
