@@ -32,6 +32,7 @@ const Button = forwardRef<HTMLButtonElement, ButtonProps>(({
       disabled && 'opacity-75 cursor-not-allowed',
       className
     )}
+    disabled={disabled}
     ref={ref}
     {...props}
     >

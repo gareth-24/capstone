@@ -7,8 +7,11 @@ import useCart from "@/hooks/use-cart";
 import CartItem from "./components/Cart-item";
 import Summary from "./components/Cart-summary";
 
+export const revalidate = 0;
+
 const CartPage = () => {
   const [isMounted, setIsMounted] = useState(false);
+  
   const cart = useCart();
 
   useEffect(() => {
