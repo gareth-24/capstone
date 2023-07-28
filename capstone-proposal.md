@@ -121,6 +121,7 @@ _Interactive Fitness E-commerce website to display clothing products, gear, work
 * 9:30-10:15: Research shopify api for handling payments/cart
 * 1:15: Research stripe api for payments
 * 1:45: Configure stripe project and test card for payments
+* 2:25: WIP: Bugfixing stripe checkout and payments with hosted site
 
 ## Helpful Resources and Links:
 
