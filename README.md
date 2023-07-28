@@ -77,6 +77,9 @@
 * 12:05: Store UI successfully hosted, WIP: testing out the routes on the live site
 * 1:30: Add custom domain url and begin prep for demo
 
+#### Friday, July 28th
+* 9:30-10:15: Research shopify api for handling payments/cart
+
 ## Helpful Resources and Links:
 
 * [GreenSock Docs](https://greensock.com/docs/) - Animation Toolset for JS
