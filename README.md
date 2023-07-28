@@ -1,4 +1,4 @@
-# Capstone
+# Capstone: Fitness-themed e-commerce website
 
 #### Preliminary research, plan, and proposal for independent capstone project
 
@@ -113,10 +113,13 @@
 
 ## Technologies Used
 
-<!-- * Git
-* JavaScript
+* Git
+* Typescript
 * React version 18.2.0
-*  -->
+* Next.js version 13
+* Lucide-React
+* Headless-UI
+* Vercel
 
 ## Description
 
