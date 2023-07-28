@@ -1,9 +1,9 @@
-"use client"
+"use client";
 
 import Button from "@/components/ui/Button";
 import useCart from "@/hooks/use-cart";
 import { ShoppingBag } from "lucide-react";
-import { useRouter } from "next/router";
+import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 
 const NavbarActions = () => {
