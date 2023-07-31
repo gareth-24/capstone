@@ -124,6 +124,9 @@ _Interactive Fitness E-commerce website to display clothing products, gear, work
 * 2:25: WIP: Bugfixing stripe checkout and payments with hosted site
 * 3:20: WIP: Checkout button successfully redirects to stripe payment, but there is a "Webhook Error: No signatures found matching the expected signature for payload."
 
+#### Monday, July 31st
+* 10:00-11:00: Bugfix-- fixed webhook error with Stripe API. The payment redirect is now working and the dashboard is updated after checkout is completed.
+
 ## Helpful Resources and Links:
 
 * [GreenSock Docs](https://greensock.com/docs/) - Animation Toolset for JS
